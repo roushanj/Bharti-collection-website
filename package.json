@@ -1,0 +1,19 @@
+{
+  "name": "bharti-collection-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roushanj/Bharti-collection-website.git"
+  },
+  "author": "oliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roushanj/Bharti-collection-website/issues"
+  },
+  "homepage": "https://github.com/roushanj/Bharti-collection-website#readme"
+}
